@@ -2,18 +2,18 @@
 
 Este programa servirá para ver datos del sistema desde un emulador de terminal, o bien, desde la tty.
 
-Pendiente a agregar -> Documentación para el script en un archivo y carpeta propio.
+### Pendiente a agregar -> Documentación para el script en un archivo y carpeta propio.
 
-Funciones disponibles
+### Funciones disponibles
 
  - Ver ip pública y privada
  - Bienvenida con cowsay
  - Su usurio y sistema operativo.
 
-Futuras funciones 
+### Futuras funciones 
  - Ver RAM.
 
-Programas requeridos 
+## #Programas requeridos 
  - Cowsay.
 
 Instalación -> Debe instalar cowsay y hacer un alias del programa en el .bashrc de su 
